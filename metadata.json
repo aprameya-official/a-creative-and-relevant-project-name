@@ -1,0 +1,6 @@
+{
+  "name": "Firecrawl Clone",
+  "routes": [
+    { "path": "/", "name": "Home" }
+  ]
+}
